@@ -15,7 +15,7 @@ import gomoku.*;
  * This file here might be overwritten in future versions.
  *
  */
-public class VadimStrategy implements ComputerStrategy {
+public class VadimAndEvaStrategy implements ComputerStrategy {
 
     private static double[][][] hugeList;
 
