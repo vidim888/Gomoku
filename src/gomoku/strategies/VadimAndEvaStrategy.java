@@ -135,14 +135,14 @@ public class VadimAndEvaStrategy implements ComputerStrategy {
 
                             } else if (row + y >= 0 && row + y < height && col + x >= 0 && col + x < width) {
                                 if (b[row + y][col + x] == SimpleBoard.EMPTY) {
-                                    tempMulti *= smartList[y + 5][x + 5][0] * (1.1 - (Math.abs(x) + Math.abs(y)) / 10.0);
+                                    tempMulti += smartList[y + 5][x + 5][0] * (1.1 - (Math.abs(x) + Math.abs(y)) / 10.0);
                                 } else if (b[row + y][col + x] == player) {
-                                    tempMulti *= smartList[y + 5][x + 5][1] * (1.1 - (Math.abs(x) + Math.abs(y)) / 10.0);
+                                    tempMulti += smartList[y + 5][x + 5][1] * (1.1 - (Math.abs(x) + Math.abs(y)) / 10.0);
                                 } else {
-                                    tempMulti *= smartList[y + 5][x + 5][2] * (1.1 - (Math.abs(x) + Math.abs(y)) / 10.0);
+                                    tempMulti += smartList[y + 5][x + 5][2] * (1.1 - (Math.abs(x) + Math.abs(y)) / 10.0);
                                 }
                             } else {
-                                tempMulti *= 0.1;
+                                tempMulti += 0.1;
                             }
                         }
                     }
