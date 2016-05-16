@@ -94,9 +94,9 @@ public class VadimAndEvaStrategy implements ComputerStrategy {
 
     private static double tempScore;
 
-    private static int[] coords = new int[2];
+    private int[] coords = new int[2];
 
-    private static double recursionLoop(int depth, int[][] board) {
+    private double recursionLoop(int depth, int[][] board) {
         if (depth >= MAX_DEPTH) {
             return estimateFunction(board);
         }
@@ -116,8 +116,8 @@ public class VadimAndEvaStrategy implements ComputerStrategy {
                         if (estimated > minMax) {
                             minMax = estimated;
                             if (depth == 0) {
-                                coords[0] = i;
-                                coords[1] = j;
+                                coords[0] = j;
+                                coords[1] = i;
                             }
                         }
                     } else {
@@ -126,10 +126,6 @@ public class VadimAndEvaStrategy implements ComputerStrategy {
                         board[i][j] = empty;
                         if (estimated < minMax) {
                             minMax = estimated;
-                            if (depth == 0) {
-                                coords[0] = i;
-                                coords[1] = j;
-                            }
                         }
                     }
                 }
@@ -138,30 +134,72 @@ public class VadimAndEvaStrategy implements ComputerStrategy {
         return minMax;
     }
 
-    private static double estimateFunction(int[][] board) {
+    private double estimateFunction(int[][] board) {
         BiConsumer<ArrayList<Integer>, Integer> analyzer = (ourList, ourIndex) -> {
             tempScore = 0;
-            /*for (int i = 0; i < 5; i++) {
-                int ourCounter = 0;
-                int otherCounter = 0;
-                for (int j = i; j < i + 5; j++) {
-                    if (ourList.get(j) == ourPlayer) {
-                        ourCounter++;
-                    } else if (ourList.get(j) == otherPlayer) {
-                        otherCounter++;
+            //System.out.println(ourList.size() + ", " + ourIndex);
+            int center = ourList.get(ourIndex);
+            if (ourList.size() - ourIndex > 5 && center == empty) {
+                boolean fiveLength = true;
+                int neightboor = ourList.get(ourIndex);
+                for (int i = ourIndex + 2; i < ourIndex + 6; i++) {
+                    if (ourList.get(i) != neightboor) {
+                        fiveLength = false;
+                        break;
                     }
                 }
-                if (ourCounter == 5) {
-                    tempScore = Double.MAX_VALUE;
-                    break;
-                } else if (otherCounter == 5) {
-                    tempScore = Double.MIN_VALUE;
-                    break;
+                if (fiveLength) {
+                    if (center == ourPlayer) {
+                        tempScore = Double.MAX_VALUE;
+                    } else {
+                        tempScore = Double.MIN_VALUE;
+                    }
                 }
-                tempScore += Math.pow(10, ourCounter);
-                tempScore -= Math.pow(10, otherCounter);
-            }*/
-            
+            }
+            if (ourList.size() - ourIndex > 5 && center == empty && tempScore == 0) {
+                boolean fourLength = true;
+                //System.out.println("lol");
+                int neightboor = ourList.get(ourIndex + 1);
+                if (neightboor != empty) {
+                    for (int i = ourIndex + 2; i < ourIndex + 5; i++) {
+                        //System.out.println("lol2");
+                        if (ourList.get(i) != neightboor) {
+                            fourLength = false;
+                            break;
+                        }
+                    }
+                    if (fourLength) {
+                        //System.out.println("What?");
+                        if (neightboor == ourPlayer) {
+                            tempScore = 1000;
+                        } else {
+                            tempScore = -1000;
+                        }
+                    }
+                }
+            }
+            if (ourIndex > 4 && center == empty && tempScore == 0) {
+                boolean fourLength = true;
+                //System.out.println("lol");
+                int neightboor = ourList.get(ourIndex - 1);
+                if (neightboor != empty) {
+                    for (int i = ourIndex - 2; i > ourIndex - 5; i--) {
+                        //System.out.println("lol2");
+                        if (ourList.get(i) != neightboor) {
+                            fourLength = false;
+                            break;
+                        }
+                    }
+                    if (fourLength) {
+                        //System.out.println("What?");
+                        if (neightboor == ourPlayer) {
+                            tempScore = 1000;
+                        } else {
+                            tempScore = -1000;
+                        }
+                    }
+                }
+            }
         };
         ArrayList<Integer> eachRow;
         double scoreToReturn = 0;
@@ -169,9 +207,8 @@ public class VadimAndEvaStrategy implements ComputerStrategy {
             for (int j = 0; j < width; j++) {
                 for (int diagonals = 0; diagonals < 4; diagonals++) {
                     eachRow = new ArrayList<Integer>();
-                    int indexOfCenter = 4;
-                    int beforeOrAfter = 0;
-                    for (int k = -4; k <= 4; k++) {
+                    int before = 0;
+                    for (int k = -5; k <= 5; k++) {
                         boolean wasInField = true;
                         if (diagonals == 0) {
                             if (i + k >= 0 && i + k < height && j + k >= 0 && j + k < width) {
@@ -186,8 +223,8 @@ public class VadimAndEvaStrategy implements ComputerStrategy {
                                 wasInField = false;
                             }
                         } else if (diagonals == 2) {
-                            if (i - k >= 0 && i - k < height && j - k >= 0 && j - k < width) {
-                                eachRow.add(board[i - k][j - k]);
+                            if (i + k >= 0 && i + k < height && j - k >= 0 && j - k < width) {
+                                eachRow.add(board[i + k][j - k]);
                             } else {
                                 wasInField = false;
                             }
@@ -200,18 +237,14 @@ public class VadimAndEvaStrategy implements ComputerStrategy {
                         }
                         if (!wasInField) {
                             if (k < 0) {
-                                beforeOrAfter = -1;
-                            } else if (k > 0) {
-                                beforeOrAfter = 1;
+                                before--;
                             }
                         }
                     }
-                    if (beforeOrAfter == -1) {
-                        analyzer.accept(eachRow, eachRow.size() - 4);
-                    } else {
-                        analyzer.accept(eachRow, 4);
-                    }
+                    //System.out.println("lol3  " + i + ", " + j + ", " + diagonals);
+                    analyzer.accept(eachRow, 5 + before);
                     if (tempScore == Double.MAX_VALUE || tempScore == Double.MIN_VALUE) {
+                        //System.out.println("WHAT???  " + tempScore);
                         return tempScore;
                     }
                     scoreToReturn += tempScore;
@@ -234,7 +267,25 @@ public class VadimAndEvaStrategy implements ComputerStrategy {
         }
         int[][] b = board.getBoard();
         recursionLoop(0, b);
-        return new Location(coords[0], coords[1]);
+        if (b[coords[1]][coords[0]] != empty) {
+            System.out.println("lol  " + coords[1] + ", " + coords[0]);
+            boolean toBreak = false;
+            for (int row = 0; row < height; row++) {
+                for (int col = 0; col < width; col++) {
+                    if (b[row][col] == SimpleBoard.EMPTY) {
+                        coords[0] = col;
+                        coords[1] = row;
+                        toBreak = true;
+                        break;
+                    }
+                }
+                if (toBreak) {
+                    break;
+                }
+            }
+            System.out.println("lol2  " + coords[1] + ", " + coords[0]);
+        }
+        return new Location(coords[1], coords[0]);
         /*if (myBoard == null) {
             myBoard = b;
         } else {
