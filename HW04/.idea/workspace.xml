@@ -23,43 +23,159 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ComputerPlayer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gomoku/ComputerPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gomoku/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#2446#2447#0" expanded="false" />
+                <element signature="e#2465#2466#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VadimAndEvaStrategy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaStrategy.java">
+      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gomoku/Game.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-              <folding />
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#720#721#0" expanded="false" />
+                <element signature="e#749#750#0" expanded="false" />
+                <element signature="e#811#812#0" expanded="false" />
+                <element signature="e#840#841#0" expanded="false" />
+                <element signature="e#897#898#0" expanded="false" />
+                <element signature="e#927#928#0" expanded="false" />
+                <element signature="e#984#985#0" expanded="false" />
+                <element signature="e#1011#1012#0" expanded="false" />
+                <element signature="e#1600#1601#0" expanded="false" />
+                <element signature="e#1621#1622#0" expanded="false" />
+                <element signature="e#1957#1958#0" expanded="false" />
+                <element signature="e#1994#1995#0" expanded="false" />
+                <element signature="e#2024#2025#0" expanded="false" />
+                <element signature="e#2079#2080#0" expanded="false" />
+                <element signature="e#2121#2122#0" expanded="false" />
+                <element signature="e#2196#2197#0" expanded="false" />
+                <element signature="e#3754#3755#0" expanded="false" />
+                <element signature="e#3783#3784#0" expanded="false" />
+                <element signature="e#10937#10938#0" expanded="false" />
+                <element signature="e#10970#10971#0" expanded="false" />
+                <element signature="e#12241#12242#0" expanded="false" />
+                <element signature="e#12280#12281#0" expanded="false" />
+                <element signature="e#12326#12327#0" expanded="false" />
+                <element signature="e#12366#12367#0" expanded="false" />
+                <element signature="e#12470#12471#0" expanded="false" />
+                <element signature="e#12490#12491#0" expanded="false" />
+                <element signature="e#12517#12518#0" expanded="false" />
+                <element signature="e#12536#12537#0" expanded="false" />
+                <element signature="e#13413#13414#0" expanded="false" />
+                <element signature="e#13463#13464#0" expanded="false" />
+                <element signature="e#17072#17073#0" expanded="false" />
+                <element signature="e#17118#17119#0" expanded="false" />
+                <element signature="e#17185#17186#0" expanded="false" />
+                <element signature="e#17234#17235#0" expanded="false" />
+                <element signature="e#17596#17597#0" expanded="false" />
+                <element signature="e#17621#17622#0" expanded="false" />
+                <element signature="e#17655#17656#0" expanded="false" />
+                <element signature="e#17680#17681#0" expanded="false" />
+                <element signature="e#17865#17866#0" expanded="false" />
+                <element signature="e#17898#17899#0" expanded="false" />
+                <element signature="e#17955#17956#0" expanded="false" />
+                <element signature="e#17997#17998#0" expanded="false" />
+                <element signature="e#18128#18129#0" expanded="false" />
+                <element signature="e#18154#18155#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="temp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/temp.java">
+      <file leaf-file-name="GameHistory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gomoku/GameHistory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.60273975">
-              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="241" column="17" selection-start-line="241" selection-start-column="17" selection-end-line="241" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1225#1226#0" expanded="false" />
+                <element signature="e#1283#1284#0" expanded="false" />
+                <element signature="e#1517#1518#0" expanded="false" />
+                <element signature="e#1541#1542#0" expanded="false" />
+                <element signature="e#1572#1573#0" expanded="false" />
+                <element signature="e#1592#1593#0" expanded="false" />
+                <element signature="e#5767#5768#0" expanded="false" />
+                <element signature="e#5802#5803#0" expanded="false" />
+                <element signature="e#7543#7544#0" expanded="false" />
+                <element signature="e#7564#7565#0" expanded="false" />
+                <element signature="e#7603#7604#0" expanded="false" />
+                <element signature="e#7632#7633#0" expanded="false" />
+                <element signature="e#7671#7672#0" expanded="false" />
+                <element signature="e#7700#7701#0" expanded="false" />
+                <element signature="e#7738#7739#0" expanded="false" />
+                <element signature="e#7762#7763#0" expanded="false" />
+                <element signature="e#7793#7794#0" expanded="false" />
+                <element signature="e#7816#7817#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VadimAndEvaMariaStrategy.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaMariaStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.60662526">
+              <caret line="244" column="25" selection-start-line="244" selection-start-column="25" selection-end-line="244" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="docComment;field#width#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#height#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#empty#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#ourPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#otherPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#tempScore#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#coords#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#MAX_COUNT#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#PLAYER_TEMP_SCORE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#PLAYER_TEMP_SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#PLAYER_TEMP_SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_4#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_5#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_6#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_7#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_8#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_9#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_10#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_11#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_12#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_13#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_14#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_15#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#CASE_16#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#SCORE_1#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#MINUS_FIVE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#boardScores#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#boardCriticalPoints#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;field#counter#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="method#getMove#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+                <element signature="docComment;method#getName#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="temp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/temp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -94,6 +210,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/gomoku/strategies/VadimStrategy.java" />
         <option value="$PROJECT_DIR$/src/gomoku/strategies/temp.java" />
+        <option value="$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaStrategy.java" />
+        <option value="$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaMariaStrategy.java" />
       </list>
     </option>
   </component>
@@ -141,6 +259,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -215,14 +335,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../ITI0011-2016_Checkstyle_iti0011.xml" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -567,12 +685,14 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39934713" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18854167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -581,11 +701,17 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -599,10 +725,92 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/gomoku/ComputerPlayer.java">
+    <entry file="file://$PROJECT_DIR$/src/gomoku/GameHistory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="241" column="17" selection-start-line="241" selection-start-column="17" selection-end-line="241" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1225#1226#0" expanded="false" />
+            <element signature="e#1283#1284#0" expanded="false" />
+            <element signature="e#1517#1518#0" expanded="false" />
+            <element signature="e#1541#1542#0" expanded="false" />
+            <element signature="e#1572#1573#0" expanded="false" />
+            <element signature="e#1592#1593#0" expanded="false" />
+            <element signature="e#5767#5768#0" expanded="false" />
+            <element signature="e#5802#5803#0" expanded="false" />
+            <element signature="e#7543#7544#0" expanded="false" />
+            <element signature="e#7564#7565#0" expanded="false" />
+            <element signature="e#7603#7604#0" expanded="false" />
+            <element signature="e#7632#7633#0" expanded="false" />
+            <element signature="e#7671#7672#0" expanded="false" />
+            <element signature="e#7700#7701#0" expanded="false" />
+            <element signature="e#7738#7739#0" expanded="false" />
+            <element signature="e#7762#7763#0" expanded="false" />
+            <element signature="e#7793#7794#0" expanded="false" />
+            <element signature="e#7816#7817#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaMariaStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;field#width#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#height#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#empty#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#ourPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#otherPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#tempScore#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#coords#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MAX_COUNT#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_4#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_5#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_6#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_7#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_8#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_9#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_10#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_11#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_12#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_13#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_14#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_15#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_16#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_1#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MINUS_FIVE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardScores#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardCriticalPoints#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#counter#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="method#getMove#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/TheList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="55" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
           <folding />
         </state>
       </provider>
@@ -611,24 +819,458 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2446#2447#0" expanded="false" />
+            <element signature="e#2465#2466#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaStrategy.java">
+    <entry file="file://$PROJECT_DIR$/src/gomoku/Game.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#720#721#0" expanded="false" />
+            <element signature="e#749#750#0" expanded="false" />
+            <element signature="e#811#812#0" expanded="false" />
+            <element signature="e#840#841#0" expanded="false" />
+            <element signature="e#897#898#0" expanded="false" />
+            <element signature="e#927#928#0" expanded="false" />
+            <element signature="e#984#985#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1600#1601#0" expanded="false" />
+            <element signature="e#1621#1622#0" expanded="false" />
+            <element signature="e#1957#1958#0" expanded="false" />
+            <element signature="e#1994#1995#0" expanded="false" />
+            <element signature="e#2024#2025#0" expanded="false" />
+            <element signature="e#2079#2080#0" expanded="false" />
+            <element signature="e#2121#2122#0" expanded="false" />
+            <element signature="e#2196#2197#0" expanded="false" />
+            <element signature="e#3754#3755#0" expanded="false" />
+            <element signature="e#3783#3784#0" expanded="false" />
+            <element signature="e#10937#10938#0" expanded="false" />
+            <element signature="e#10970#10971#0" expanded="false" />
+            <element signature="e#12241#12242#0" expanded="false" />
+            <element signature="e#12280#12281#0" expanded="false" />
+            <element signature="e#12326#12327#0" expanded="false" />
+            <element signature="e#12366#12367#0" expanded="false" />
+            <element signature="e#12470#12471#0" expanded="false" />
+            <element signature="e#12490#12491#0" expanded="false" />
+            <element signature="e#12517#12518#0" expanded="false" />
+            <element signature="e#12536#12537#0" expanded="false" />
+            <element signature="e#13413#13414#0" expanded="false" />
+            <element signature="e#13463#13464#0" expanded="false" />
+            <element signature="e#17072#17073#0" expanded="false" />
+            <element signature="e#17118#17119#0" expanded="false" />
+            <element signature="e#17185#17186#0" expanded="false" />
+            <element signature="e#17234#17235#0" expanded="false" />
+            <element signature="e#17596#17597#0" expanded="false" />
+            <element signature="e#17621#17622#0" expanded="false" />
+            <element signature="e#17655#17656#0" expanded="false" />
+            <element signature="e#17680#17681#0" expanded="false" />
+            <element signature="e#17865#17866#0" expanded="false" />
+            <element signature="e#17898#17899#0" expanded="false" />
+            <element signature="e#17955#17956#0" expanded="false" />
+            <element signature="e#17997#17998#0" expanded="false" />
+            <element signature="e#18128#18129#0" expanded="false" />
+            <element signature="e#18154#18155#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/GameHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="241" column="17" selection-start-line="241" selection-start-column="17" selection-end-line="241" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1225#1226#0" expanded="false" />
+            <element signature="e#1283#1284#0" expanded="false" />
+            <element signature="e#1517#1518#0" expanded="false" />
+            <element signature="e#1541#1542#0" expanded="false" />
+            <element signature="e#1572#1573#0" expanded="false" />
+            <element signature="e#1592#1593#0" expanded="false" />
+            <element signature="e#5767#5768#0" expanded="false" />
+            <element signature="e#5802#5803#0" expanded="false" />
+            <element signature="e#7543#7544#0" expanded="false" />
+            <element signature="e#7564#7565#0" expanded="false" />
+            <element signature="e#7603#7604#0" expanded="false" />
+            <element signature="e#7632#7633#0" expanded="false" />
+            <element signature="e#7671#7672#0" expanded="false" />
+            <element signature="e#7700#7701#0" expanded="false" />
+            <element signature="e#7738#7739#0" expanded="false" />
+            <element signature="e#7762#7763#0" expanded="false" />
+            <element signature="e#7793#7794#0" expanded="false" />
+            <element signature="e#7816#7817#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaMariaStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;field#width#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#height#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#empty#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#ourPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#otherPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#tempScore#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#coords#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MAX_COUNT#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_4#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_5#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_6#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_7#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_8#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_9#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_10#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_11#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_12#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_13#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_14#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_15#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_16#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_1#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MINUS_FIVE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardScores#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardCriticalPoints#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#counter#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="method#getMove#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/temp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/TheList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="55" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2446#2447#0" expanded="false" />
+            <element signature="e#2465#2466#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#720#721#0" expanded="false" />
+            <element signature="e#749#750#0" expanded="false" />
+            <element signature="e#811#812#0" expanded="false" />
+            <element signature="e#840#841#0" expanded="false" />
+            <element signature="e#897#898#0" expanded="false" />
+            <element signature="e#927#928#0" expanded="false" />
+            <element signature="e#984#985#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1600#1601#0" expanded="false" />
+            <element signature="e#1621#1622#0" expanded="false" />
+            <element signature="e#1957#1958#0" expanded="false" />
+            <element signature="e#1994#1995#0" expanded="false" />
+            <element signature="e#2024#2025#0" expanded="false" />
+            <element signature="e#2079#2080#0" expanded="false" />
+            <element signature="e#2121#2122#0" expanded="false" />
+            <element signature="e#2196#2197#0" expanded="false" />
+            <element signature="e#3754#3755#0" expanded="false" />
+            <element signature="e#3783#3784#0" expanded="false" />
+            <element signature="e#10937#10938#0" expanded="false" />
+            <element signature="e#10970#10971#0" expanded="false" />
+            <element signature="e#12241#12242#0" expanded="false" />
+            <element signature="e#12280#12281#0" expanded="false" />
+            <element signature="e#12326#12327#0" expanded="false" />
+            <element signature="e#12366#12367#0" expanded="false" />
+            <element signature="e#12470#12471#0" expanded="false" />
+            <element signature="e#12490#12491#0" expanded="false" />
+            <element signature="e#12517#12518#0" expanded="false" />
+            <element signature="e#12536#12537#0" expanded="false" />
+            <element signature="e#13413#13414#0" expanded="false" />
+            <element signature="e#13463#13464#0" expanded="false" />
+            <element signature="e#17072#17073#0" expanded="false" />
+            <element signature="e#17118#17119#0" expanded="false" />
+            <element signature="e#17185#17186#0" expanded="false" />
+            <element signature="e#17234#17235#0" expanded="false" />
+            <element signature="e#17596#17597#0" expanded="false" />
+            <element signature="e#17621#17622#0" expanded="false" />
+            <element signature="e#17655#17656#0" expanded="false" />
+            <element signature="e#17680#17681#0" expanded="false" />
+            <element signature="e#17865#17866#0" expanded="false" />
+            <element signature="e#17898#17899#0" expanded="false" />
+            <element signature="e#17955#17956#0" expanded="false" />
+            <element signature="e#17997#17998#0" expanded="false" />
+            <element signature="e#18128#18129#0" expanded="false" />
+            <element signature="e#18154#18155#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/GameHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1225#1226#0" expanded="false" />
+            <element signature="e#1283#1284#0" expanded="false" />
+            <element signature="e#1517#1518#0" expanded="false" />
+            <element signature="e#1541#1542#0" expanded="false" />
+            <element signature="e#1572#1573#0" expanded="false" />
+            <element signature="e#1592#1593#0" expanded="false" />
+            <element signature="e#5767#5768#0" expanded="false" />
+            <element signature="e#5802#5803#0" expanded="false" />
+            <element signature="e#7543#7544#0" expanded="false" />
+            <element signature="e#7564#7565#0" expanded="false" />
+            <element signature="e#7603#7604#0" expanded="false" />
+            <element signature="e#7632#7633#0" expanded="false" />
+            <element signature="e#7671#7672#0" expanded="false" />
+            <element signature="e#7700#7701#0" expanded="false" />
+            <element signature="e#7738#7739#0" expanded="false" />
+            <element signature="e#7762#7763#0" expanded="false" />
+            <element signature="e#7793#7794#0" expanded="false" />
+            <element signature="e#7816#7817#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaMariaStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="docComment;field#width#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#height#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#empty#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#ourPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#otherPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#tempScore#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#coords#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MAX_COUNT#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_4#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_5#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_6#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_7#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_8#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_9#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_10#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_11#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_12#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_13#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_14#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_15#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_16#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_1#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MINUS_FIVE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardScores#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardCriticalPoints#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#counter#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="method#getMove#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/TheList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="55" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2446#2447#0" expanded="false" />
+            <element signature="e#2465#2466#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#720#721#0" expanded="false" />
+            <element signature="e#749#750#0" expanded="false" />
+            <element signature="e#811#812#0" expanded="false" />
+            <element signature="e#840#841#0" expanded="false" />
+            <element signature="e#897#898#0" expanded="false" />
+            <element signature="e#927#928#0" expanded="false" />
+            <element signature="e#984#985#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1600#1601#0" expanded="false" />
+            <element signature="e#1621#1622#0" expanded="false" />
+            <element signature="e#1957#1958#0" expanded="false" />
+            <element signature="e#1994#1995#0" expanded="false" />
+            <element signature="e#2024#2025#0" expanded="false" />
+            <element signature="e#2079#2080#0" expanded="false" />
+            <element signature="e#2121#2122#0" expanded="false" />
+            <element signature="e#2196#2197#0" expanded="false" />
+            <element signature="e#3754#3755#0" expanded="false" />
+            <element signature="e#3783#3784#0" expanded="false" />
+            <element signature="e#10937#10938#0" expanded="false" />
+            <element signature="e#10970#10971#0" expanded="false" />
+            <element signature="e#12241#12242#0" expanded="false" />
+            <element signature="e#12280#12281#0" expanded="false" />
+            <element signature="e#12326#12327#0" expanded="false" />
+            <element signature="e#12366#12367#0" expanded="false" />
+            <element signature="e#12470#12471#0" expanded="false" />
+            <element signature="e#12490#12491#0" expanded="false" />
+            <element signature="e#12517#12518#0" expanded="false" />
+            <element signature="e#12536#12537#0" expanded="false" />
+            <element signature="e#13413#13414#0" expanded="false" />
+            <element signature="e#13463#13464#0" expanded="false" />
+            <element signature="e#17072#17073#0" expanded="false" />
+            <element signature="e#17118#17119#0" expanded="false" />
+            <element signature="e#17185#17186#0" expanded="false" />
+            <element signature="e#17234#17235#0" expanded="false" />
+            <element signature="e#17596#17597#0" expanded="false" />
+            <element signature="e#17621#17622#0" expanded="false" />
+            <element signature="e#17655#17656#0" expanded="false" />
+            <element signature="e#17680#17681#0" expanded="false" />
+            <element signature="e#17865#17866#0" expanded="false" />
+            <element signature="e#17898#17899#0" expanded="false" />
+            <element signature="e#17955#17956#0" expanded="false" />
+            <element signature="e#17997#17998#0" expanded="false" />
+            <element signature="e#18128#18129#0" expanded="false" />
+            <element signature="e#18154#18155#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/GameHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1225#1226#0" expanded="false" />
+            <element signature="e#1283#1284#0" expanded="false" />
+            <element signature="e#1517#1518#0" expanded="false" />
+            <element signature="e#1541#1542#0" expanded="false" />
+            <element signature="e#1572#1573#0" expanded="false" />
+            <element signature="e#1592#1593#0" expanded="false" />
+            <element signature="e#5767#5768#0" expanded="false" />
+            <element signature="e#5802#5803#0" expanded="false" />
+            <element signature="e#7543#7544#0" expanded="false" />
+            <element signature="e#7564#7565#0" expanded="false" />
+            <element signature="e#7603#7604#0" expanded="false" />
+            <element signature="e#7632#7633#0" expanded="false" />
+            <element signature="e#7671#7672#0" expanded="false" />
+            <element signature="e#7700#7701#0" expanded="false" />
+            <element signature="e#7738#7739#0" expanded="false" />
+            <element signature="e#7762#7763#0" expanded="false" />
+            <element signature="e#7793#7794#0" expanded="false" />
+            <element signature="e#7816#7817#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaMariaStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;field#width#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#height#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#empty#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#ourPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#otherPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#tempScore#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#coords#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MAX_COUNT#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_4#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_5#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_6#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_7#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_8#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_9#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_10#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_11#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_12#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_13#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_14#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_15#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_16#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_1#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MINUS_FIVE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardScores#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardCriticalPoints#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#counter#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="method#getMove#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -645,7 +1287,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,15 +1294,136 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2446#2447#0" expanded="false" />
+            <element signature="e#2465#2466#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaMariaStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;field#width#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#height#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#empty#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#ourPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#otherPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#tempScore#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#coords#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MAX_COUNT#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_4#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_5#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_6#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_7#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_8#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_9#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_10#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_11#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_12#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_13#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_14#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_15#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_16#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_1#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MINUS_FIVE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardScores#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardCriticalPoints#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#counter#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="method#getMove#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/TheList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="55" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaStrategy.java">
+    <entry file="file://$PROJECT_DIR$/src/gomoku/ComputerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2446#2447#0" expanded="false" />
+            <element signature="e#2465#2466#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaMariaStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;field#width#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#height#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#empty#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#ourPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#otherPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#tempScore#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#coords#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MAX_COUNT#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_4#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_5#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_6#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_7#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_8#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_9#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_10#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_11#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_12#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_13#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_14#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_15#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_16#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_1#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MINUS_FIVE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardScores#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardCriticalPoints#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#counter#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="method#getMove#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -670,7 +1432,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -679,7 +1441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,15 +1448,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2446#2447#0" expanded="false" />
+            <element signature="e#2465#2466#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaStrategy.java">
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaMariaStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;field#width#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#height#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#empty#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#ourPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#otherPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#tempScore#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#coords#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MAX_COUNT#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_4#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_5#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_6#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_7#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_8#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_9#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_10#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_11#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_12#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_13#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_14#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_15#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_16#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_1#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MINUS_FIVE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardScores#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardCriticalPoints#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#counter#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="method#getMove#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -704,7 +1505,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -713,7 +1514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,15 +1521,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2446#2447#0" expanded="false" />
+            <element signature="e#2465#2466#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaStrategy.java">
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaMariaStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;field#width#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#height#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#empty#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#ourPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#otherPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#tempScore#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#coords#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MAX_COUNT#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_4#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_5#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_6#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_7#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_8#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_9#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_10#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_11#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_12#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_13#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_14#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_15#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_16#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_1#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MINUS_FIVE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardScores#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardCriticalPoints#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#counter#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="method#getMove#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -738,16 +1578,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gomoku/ComputerPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,14 +1597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gomoku/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/TheList.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -781,20 +1605,184 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaStrategy.java">
+    <entry file="file://$PROJECT_DIR$/src/gomoku/ComputerStrategyOpponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65753424">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/Gomoku.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/Square.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/ComputerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05821918">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2446#2447#0" expanded="false" />
+            <element signature="e#2465#2466#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#720#721#0" expanded="false" />
+            <element signature="e#749#750#0" expanded="false" />
+            <element signature="e#811#812#0" expanded="false" />
+            <element signature="e#840#841#0" expanded="false" />
+            <element signature="e#897#898#0" expanded="false" />
+            <element signature="e#927#928#0" expanded="false" />
+            <element signature="e#984#985#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1600#1601#0" expanded="false" />
+            <element signature="e#1621#1622#0" expanded="false" />
+            <element signature="e#1957#1958#0" expanded="false" />
+            <element signature="e#1994#1995#0" expanded="false" />
+            <element signature="e#2024#2025#0" expanded="false" />
+            <element signature="e#2079#2080#0" expanded="false" />
+            <element signature="e#2121#2122#0" expanded="false" />
+            <element signature="e#2196#2197#0" expanded="false" />
+            <element signature="e#3754#3755#0" expanded="false" />
+            <element signature="e#3783#3784#0" expanded="false" />
+            <element signature="e#10937#10938#0" expanded="false" />
+            <element signature="e#10970#10971#0" expanded="false" />
+            <element signature="e#12241#12242#0" expanded="false" />
+            <element signature="e#12280#12281#0" expanded="false" />
+            <element signature="e#12326#12327#0" expanded="false" />
+            <element signature="e#12366#12367#0" expanded="false" />
+            <element signature="e#12470#12471#0" expanded="false" />
+            <element signature="e#12490#12491#0" expanded="false" />
+            <element signature="e#12517#12518#0" expanded="false" />
+            <element signature="e#12536#12537#0" expanded="false" />
+            <element signature="e#13413#13414#0" expanded="false" />
+            <element signature="e#13463#13464#0" expanded="false" />
+            <element signature="e#17072#17073#0" expanded="false" />
+            <element signature="e#17118#17119#0" expanded="false" />
+            <element signature="e#17185#17186#0" expanded="false" />
+            <element signature="e#17234#17235#0" expanded="false" />
+            <element signature="e#17596#17597#0" expanded="false" />
+            <element signature="e#17621#17622#0" expanded="false" />
+            <element signature="e#17655#17656#0" expanded="false" />
+            <element signature="e#17680#17681#0" expanded="false" />
+            <element signature="e#17865#17866#0" expanded="false" />
+            <element signature="e#17898#17899#0" expanded="false" />
+            <element signature="e#17955#17956#0" expanded="false" />
+            <element signature="e#17997#17998#0" expanded="false" />
+            <element signature="e#18128#18129#0" expanded="false" />
+            <element signature="e#18154#18155#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/GameHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="241" column="17" selection-start-line="241" selection-start-column="17" selection-end-line="241" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1225#1226#0" expanded="false" />
+            <element signature="e#1283#1284#0" expanded="false" />
+            <element signature="e#1517#1518#0" expanded="false" />
+            <element signature="e#1541#1542#0" expanded="false" />
+            <element signature="e#1572#1573#0" expanded="false" />
+            <element signature="e#1592#1593#0" expanded="false" />
+            <element signature="e#5767#5768#0" expanded="false" />
+            <element signature="e#5802#5803#0" expanded="false" />
+            <element signature="e#7543#7544#0" expanded="false" />
+            <element signature="e#7564#7565#0" expanded="false" />
+            <element signature="e#7603#7604#0" expanded="false" />
+            <element signature="e#7632#7633#0" expanded="false" />
+            <element signature="e#7671#7672#0" expanded="false" />
+            <element signature="e#7700#7701#0" expanded="false" />
+            <element signature="e#7738#7739#0" expanded="false" />
+            <element signature="e#7762#7763#0" expanded="false" />
+            <element signature="e#7793#7794#0" expanded="false" />
+            <element signature="e#7816#7817#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/temp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.60273975">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gomoku/strategies/VadimAndEvaMariaStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60662526">
+          <caret line="244" column="25" selection-start-line="244" selection-start-column="25" selection-end-line="244" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="docComment;field#width#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#height#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#empty#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#ourPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#otherPlayer#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#tempScore#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#coords#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MAX_COUNT#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#PLAYER_TEMP_SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_4#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_5#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_6#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_7#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_8#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_9#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_10#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_11#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_12#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_13#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_14#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_15#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#CASE_16#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_1#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_2#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#SCORE_3#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#MINUS_FIVE#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardScores#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#boardCriticalPoints#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;field#counter#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="method#getMove#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#VadimAndEvaMariaStrategy#0" expanded="false" />
           </folding>
         </state>
       </provider>
