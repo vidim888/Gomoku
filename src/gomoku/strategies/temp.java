@@ -5,6 +5,7 @@ import gomoku.*;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.DoubleSummaryStatistics;
 import java.util.Random;
 
 /**
@@ -16,7 +17,7 @@ public class temp {
     private static Random rand = new Random();
 
     public static void main(String[] args) {
-
+        System.out.println(Double.MIN_VALUE + " " + Double.MAX_VALUE);
         //Write into file.
         try {
             FileWriter writer = new FileWriter("src/gomoku/strategies/TheList.txt");
